@@ -1,9 +1,34 @@
+# Virtual Environment
+audio_ann_venv/
+venv/
+
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
 .ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Model Files
 *.h5
 *.keras
-*.wav
-*.mp3
-*.zip
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Environment Variables
+.env
 
 audio_data/
+
