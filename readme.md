@@ -13,3 +13,10 @@ This project classifies audio signals into multiple categories using MFCC (Mel F
 - TensorFlow / Keras
 - Scikit-Learn
 - Matplotlib
+
+## Dataset
+
+- Dataset: UrbanSound8K
+- Total Audio Samples: 8732
+- Number of Classes: 10
+- Feature Extraction Method: MFCC (Mel Frequency Cepstral Coefficients)
